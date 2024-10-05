@@ -1,1 +1,6 @@
-# Globe-Protocol-Games
+Nosso projeto se baseia em um app com jogos e atividades que visam a conscientização ambiental no Brasil, visto que a população não tem o conhecimento necessário para preservar o meio ambiente. Todas as atividades podem ser realizadas individualmente ou em grupo em qualquer faixa etária. Teremos atividades online com um sistema de ranking e também atividades que façam o usuário realizar uma ação no mundo real, como reciclar.
+Faremos também um “evento” em que todos possam participar, tanto sozinhos como em algum grupo social (escolas, grupos de escoteiros, etc), se realizarem corretamente o “evento” terão uma recompensa (certificado, por exemplo). Além disso, iremos fazer um fórum para que os usuários façam postagens informativas e/ou compartilhem suas experiências e atividades. Quanto mais o usuário postar e as pessoas gostarem de sua publicação, mais relevância o usuário terá na plataforma.# Globe-Protocol-Games
+
+#canva https://www.canva.com/design/DAGSsCVFVA0/NhZy5GLDzTjtc1CC9ofn_A/edit?utm_content=DAGSsCVFVA0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+#canva https://www.canva.com/design/DAGSq4pXJAU/dJWN-pSduoNQObJe4mkVDw/edit?utm_content=DAGSq4pXJAU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+#canva https://www.canva.com/design/DAGSrDZHr28/emd4CxC7pmDwjVFyVxwpKA/edit?utm_content=DAGSrDZHr28&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
